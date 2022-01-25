@@ -6,7 +6,7 @@ back to the English translation.
 
 The AL["text"] = true; shortcut can ONLY be used for English (the root translation).
 ]]
--- $Id$
+-- $Id: constants.cn.lua 2727 2010-07-18 17:45:00Z arith $
 
 
 

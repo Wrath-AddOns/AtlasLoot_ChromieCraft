@@ -1,4 +1,4 @@
-﻿-- $Id$
+﻿-- $Id: constants.tw.lua 2726 2010-07-18 17:31:56Z arith $
 --[[
 constants.tw.lua
 This file defines an AceLocale table for all the various text strings needed
