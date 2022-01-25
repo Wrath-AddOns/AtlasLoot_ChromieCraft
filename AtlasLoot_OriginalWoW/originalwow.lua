@@ -21,6 +21,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 ---- Dire Maul West
 ---- Gnomeregan
 ---- Maraudon
+---- Onyxia (Level 60)
 ---- Ragefire Chasm
 ---- Razorfen Downs
 ---- Razorfen Kraul
@@ -2205,7 +2206,42 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{ 28, 17765, "", "=q1=Gem of the Fifth Khan", "=ds=#m3#", "", "100%"};
 		Prev = "Maraudon1";
 	};
-
+    
+    		-------------------------
+		--- Onyxia (Level 60) ---
+		-------------------------
+    
+    	AtlasLoot_Data["Onyxia60_1"] = {
+		{ 1, 16914, "", "=q4=Netherwind Crown",	   "=q1=#m1# =ds=#c3# (T2)", "14.09%" };
+		{ 2, 16921, "", "=q4=Halo of Transcendence",  "=q1=#m1# =ds=#c5# (T2)", "13.39%" };
+		{ 3, 16929, "", "=q4=Nemesis Skullcap",	   "=q1=#m1# =ds=#c8# (T2)", "13.54%" };
+		{ 4, 16900, "", "=q4=Stormrage Cover",		"=q1=#m1# =ds=#c1# (T2)", "13.08%" };
+		{ 5, 16908, "", "=q4=Bloodfang Hood",		 "=q1=#m1# =ds=#c6# (T2)", "13.21%" };
+		{ 6, 16939, "", "=q4=Dragonstalker's Helm",   "=q1=#m1# =ds=#c2# (T2)", "13.91%" };
+		{ 7, 16947, "", "=q4=Helmet of Ten Storms",   "=q1=#m1# =ds=#c7# (T2)", "4.86%" };
+		{ 8, 16963, "", "=q4=Helm of Wrath",		  "=q1=#m1# =ds=#c9# (T2)", "13.65%" };
+		{ 9, 16955, "", "=q4=Judgement Crown",		"=q1=#m1# =ds=#c4# (T2)", "8.64%" };
+		{ 10, 0,"","","" };
+		{ 11, 18705, "", "=q4=Mature Black Dragon Sinew", "=ds=#m3# =q1=#m1# =ds=#c2#", "24.53%" };
+		{ 12, 18713, "", "=q4=Rhok'delar, Longbow of the Ancient Keepers", "=q1=#m4#: =ds=#w2#, =q1=#m1# =ds=#c2#" };
+		{ 13, 0,"","","" };
+		{ 14, 15410, "","=q3=Scale of Onyxia",	  "=ds=#e8#" };
+		{ 15, 0,"","","" };
+		{ 16, 17078, "", "=q4=Sapphiron Drape",			  "=ds=#s4#", "15.28%" };
+		{ 17, 18205, "", "=q4=Eskhandar's Collar",				"=ds=#s2#", "14.88%" };
+		{ 18, 18813, "", "=q4=Ring of Binding",		   "=ds=#s13#", "16.28%" };
+		{ 19, 17064, "", "=q4=Shard of the Scale",  "=ds=#s14#", "4.08%" };
+		{ 20, 17067, "", "=q4=Ancient Cornerstone Grimoire", "=ds=#s15#", "16.07%" };
+		{ 21, 17075, "", "=q4=Vis'kag the Bloodletter",		  "=ds=#h1#, #w10#", "4.00%" };
+		{ 22, 17068, "", "=q4=Deathbringer",					   "=ds=#h1#, #w1#", "4.31%" };
+		{ 23, 0,"","","" };
+		{ 24, 17966, "", "=q2=Onyxia Hide Backpack", "=ds=#m14# #e1#", "100%"};
+		{ 26, 0,"","","" };
+                { 27, 18423, "", "=q4=Head of Onyxia",	  "=ds=#m2#", "100%" };
+                { 28, 18404, "", "=q4=Onyxia Tooth Pendant", "=q1=#m4#: =ds=#s2#" };
+                { 29, 18403, "", "=q4=Dragonslayer's Signet", "=q1=#m4#: =ds=#s13#" };
+                { 30, 18406, "", "=q4=Onyxia Blood Talisman", "=q1=#m4#: =ds=#s14#" };
+    	};
 		----------------------
 		--- Ragefire Chasm ---
 		----------------------
