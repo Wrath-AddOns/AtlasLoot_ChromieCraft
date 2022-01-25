@@ -49,49 +49,52 @@ AtlasLoot_DewDropDown = {
 			[10] = {
 				{ BabbleZone["Molten Core"], "MoltenCore", "Submenu" },
 			},
-			[11] = {
-				{ BabbleZone["Ragefire Chasm"], "RagefireChasm", "Table" },
+                        [11] = {
+				{ BabbleZone["Onyxia's Lair"], "Onyxia60_1", "Table" },
 			},
 			[12] = {
-				{ BabbleZone["Razorfen Downs"], "RazorfenDowns1", "Table" },
+				{ BabbleZone["Ragefire Chasm"], "RagefireChasm", "Table" },
 			},
 			[13] = {
-				{ BabbleZone["Razorfen Kraul"], "RazorfenKraul1", "Table" },
+				{ BabbleZone["Razorfen Downs"], "RazorfenDowns1", "Table" },
 			},
 			[14] = {
-				{ BabbleZone["Ruins of Ahn'Qiraj"], "RuinsofAQ", "Submenu" },
+				{ BabbleZone["Razorfen Kraul"], "RazorfenKraul1", "Table" },
 			},
 			[15] = {
-				{ BabbleZone["Scarlet Monastery"], "Scarlet Monastery", "Submenu" },
+				{ BabbleZone["Ruins of Ahn'Qiraj"], "RuinsofAQ", "Submenu" },
 			},
 			[16] = {
-				{ BabbleZone["Scholomance"], "Scholomance", "Submenu" },
+				{ BabbleZone["Scarlet Monastery"], "Scarlet Monastery", "Submenu" },
 			},
 			[17] = {
-				{ BabbleZone["Shadowfang Keep"], "ShadowfangKeep1", "Table" },
+				{ BabbleZone["Scholomance"], "Scholomance", "Submenu" },
 			},
 			[18] = {
-				{ BabbleZone["The Stockade"], "TheStockade", "Table" },
+				{ BabbleZone["Shadowfang Keep"], "ShadowfangKeep1", "Table" },
 			},
 			[19] = {
-				{ BabbleZone["Stratholme"], "Stratholme", "Submenu" },
+				{ BabbleZone["The Stockade"], "TheStockade", "Table" },
 			},
 			[20] = {
-				{ BabbleZone["Temple of Ahn'Qiraj"], "TempleofAQ", "Submenu" },
+				{ BabbleZone["Stratholme"], "Stratholme", "Submenu" },
 			},
 			[21] = {
-				{ BabbleZone["The Temple of Atal'Hakkar"], "SunkenTemple", "Submenu" },
+				{ BabbleZone["Temple of Ahn'Qiraj"], "TempleofAQ", "Submenu" },
 			},
 			[22] = {
-				{ BabbleZone["Uldaman"], "Uldaman", "Submenu" },
+				{ BabbleZone["The Temple of Atal'Hakkar"], "SunkenTemple", "Submenu" },
 			},
 			[23] = {
-				{ BabbleZone["Wailing Caverns"], "WailingCaverns1", "Table" },
+				{ BabbleZone["Uldaman"], "Uldaman", "Submenu" },
 			},
 			[24] = {
-				{ BabbleZone["Zul'Farrak"], "ZulFarrak", "Submenu" },
+				{ BabbleZone["Wailing Caverns"], "WailingCaverns1", "Table" },
 			},
 			[25] = {
+				{ BabbleZone["Zul'Farrak"], "ZulFarrak", "Submenu" },
+			},
+			[26] = {
 				{ BabbleZone["Zul'Gurub"], "ZulGurub", "Submenu" },
 			},
 		},
